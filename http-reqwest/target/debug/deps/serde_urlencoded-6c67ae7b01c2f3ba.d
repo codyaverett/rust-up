@@ -1,0 +1,11 @@
+C:\Users\caavere\Projects\rust-up\http-reqwest\target\debug\deps\libserde_urlencoded-6c67ae7b01c2f3ba.rlib: C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\lib.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\de.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\ser\mod.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\ser\key.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\ser\pair.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\ser\part.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\ser\value.rs
+
+C:\Users\caavere\Projects\rust-up\http-reqwest\target\debug\deps\serde_urlencoded-6c67ae7b01c2f3ba.d: C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\lib.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\de.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\ser\mod.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\ser\key.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\ser\pair.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\ser\part.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\ser\value.rs
+
+C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\lib.rs:
+C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\de.rs:
+C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\ser\mod.rs:
+C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\ser\key.rs:
+C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\ser\pair.rs:
+C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\ser\part.rs:
+C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.4\src\ser\value.rs:

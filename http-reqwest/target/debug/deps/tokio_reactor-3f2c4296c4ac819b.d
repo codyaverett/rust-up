@@ -1,0 +1,10 @@
+C:\Users\caavere\Projects\rust-up\http-reqwest\target\debug\deps\libtokio_reactor-3f2c4296c4ac819b.rlib: C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\lib.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\atomic_task.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\background.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\poll_evented.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\registration.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\sharded_rwlock.rs
+
+C:\Users\caavere\Projects\rust-up\http-reqwest\target\debug\deps\tokio_reactor-3f2c4296c4ac819b.d: C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\lib.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\atomic_task.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\background.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\poll_evented.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\registration.rs C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\sharded_rwlock.rs
+
+C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\lib.rs:
+C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\atomic_task.rs:
+C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\background.rs:
+C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\poll_evented.rs:
+C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\registration.rs:
+C:\Users\caavere\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-reactor-0.1.8\src\sharded_rwlock.rs:
