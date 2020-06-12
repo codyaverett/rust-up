@@ -1,1 +1,0 @@
-{"rustc":12196200363794258216,"features":"[\"alloc\", \"default\", \"rand_core\", \"rand_jitter\", \"rand_os\", \"std\"]","target":4944179213620976468,"profile":7282077418741342047,"path":4012716530809348321,"deps":[["autocfg v0.1.2","autocfg",15091732061456053905]],"local":[{"Precalculated":"0.6.5"}],"rustflags":[],"edition":"Edition2015"}

@@ -1,3 +1,5 @@
-
+vendor
+.cargo
+*target
 *.exe
 *.pdb
